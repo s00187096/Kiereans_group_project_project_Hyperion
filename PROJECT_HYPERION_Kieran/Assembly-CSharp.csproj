@@ -66,31 +66,31 @@
     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Group_Project-Project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Kieran.DESKTOP-0BQ3N91/Documents/GitHub/Kiereans_group_project_project_Hyperion/PROJECT_HYPERION_Kieran/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
