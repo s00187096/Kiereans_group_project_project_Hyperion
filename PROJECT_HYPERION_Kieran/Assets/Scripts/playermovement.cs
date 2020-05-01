@@ -4,48 +4,26 @@ using UnityEngine;
 
 public class playermovement : MonoBehaviour
 {
-    public float xySpeed = 18;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    public float speed = 10.0f;
+    public float rotationSpeed = 100.0f;
+
     void Update()
     {
-        float h = Input.GetAxis("Mouse X");
-        float v = Input.GetAxis("Mouse Y");
+        // Get the horizontal and vertical axis.
+        // By default they are mapped to the arrow keys.
+        // The value is in the range -1 to 1
+        float translation = Input.GetAxis("Vertical") * speed;
+        float rotation = Input.GetAxis("Horizontal") * rotationSpeed;
 
-        LocalMove(h, v, xySpeed);
-    }
-    void LocalMove(float x, float y,float speed)
-    {
-        transform.localPosition += new Vector3(x, y, 0) * speed * Time.deltaTime;
-    }
-    void ClampPosition ()
-    {
-        Vector3 pos = Camera.main.WorldToViewportPoint(transform.position);
-        pos.x = Mathf.Clamp01(pos.x);
-        pos.y = Mathf.Clamp01(pos.y);
-        transform.position = Camera.main.ViewportToWorldPoint(pos);
-    }
+        // Make it move 10 meters per second instead of 10 meters per frame...
+        translation *= Time.deltaTime;
+        rotation *= Time.deltaTime;
 
-    void RotationLook(float h, float v,float speed)
-    {
-        aimTarget.localPosition = new Vector3(h, v, 1);
-        transform.rotation = Quaternion.RotateTowards(transform.rotation, Quaternion.LookRotation(aimTarget.position), Mathf.Deg2Rad * speed);
-    }
-    void HorizontalLean(Transform target, float axis, float leanLimit, float lerpTime)
-    {
-        Vector3 targetEulerAngels = target.localEulerAngles;
-        target.localEulerAngles = new Vector3(targetEulerAngels.x, targetEulerAngels.y, Mathf.LerpAngle(targetEulerAngels.z, -axis * leanLimit, lerpTime));
-    }
+        // Move translation along the object's z-axis
+        transform.Translate(0, 0, translation);
 
-    //private void OnDrawGizmos()
-    //{
-    //    Gizmos.color = blue;
-    //    Gizmos.DrawWireSphere(aimTarget.posisition, .5f);
-    //    Gizmos.DrawSphere(aimTarget.posisiton, .15f);
-    //}
+        // Rotate around our y-axis
+        transform.Rotate(0, rotation, 0);
+    }
 }
