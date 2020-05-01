@@ -11,8 +11,9 @@ public class zaxis_movement : MonoBehaviour
     }
 
     // Update is called once per frame
+    //model is orientated so the y axis is facing towards the finish so the code had to change from z to  y
     void Update()
     {
-        transform.Translate(0, 1, 0);
+        transform.Translate(0, 2, 0);//transform.Translate(x,y,z)
     }
 }

@@ -111,10 +111,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 678, y: 492}
+  m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 3123
+  controlID: 18974
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 635
-  m_MinSize: {x: 678, y: 492}
+  m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 3124
+  controlID: 18975
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 942
     height: 635
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 3125
+  controlID: 18976
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -186,10 +186,10 @@ MonoBehaviour:
     y: 0
     width: 942
     height: 285
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 3126
+  controlID: 18977
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -415,10 +415,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 61}
-      m_SelectedIDs: ce2f0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffffde330000ee330000
+      m_ExpandedIDs: 3c29fdff009ffdff0aa3fdff121cfeff3628feffbe98feff549bfeff680cffff1411ffffb47effffbc84ffff70fbffff5cb704006eb70400147006002670060020b60a004eb60a0040d90c0052d90c00
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -478,9 +478,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2929.934, y: -902.7494, z: 3221.6218}
+    m_Target: {x: -49.41037, y: -66.54118, z: -1450.0109}
     speed: 2
-    m_Value: {x: -2929.934, y: -902.7494, z: 3221.6218}
+    m_Value: {x: -49.41037, y: -66.54118, z: -1450.0109}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -526,13 +526,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12194209, y: -0.23987307, z: 0.03038196, w: 0.96265507}
+    m_Target: {x: 0.106857, y: 0.39980027, z: -0.046999354, w: 0.90916157}
     speed: 2
-    m_Value: {x: -0.12194209, y: 0.23987308, z: -0.03038196, w: -0.96265507}
+    m_Value: {x: 0.106857, y: 0.39980027, z: -0.046999354, w: 0.90916157}
   m_Size:
-    m_Target: 6935.5137
+    m_Target: 296.61285
     speed: 2
-    m_Value: 6935.5137
+    m_Value: 296.61285
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -622,20 +622,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Music
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Music
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Kieran.DESKTOP-0BQ3N91\Documents\GitHub\Kiereans_group_project_project_Hyperion\PROJECT_HYPERION_Kieran
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 506d0000
-    m_LastClickedID: 27984
-    m_ExpandedIDs: 000000001e6d000000ca9a3b
+    m_SelectedIDs: eafe0500
+    m_LastClickedID: 392938
+    m_ExpandedIDs: 00000000226d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,7 +663,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e6d000000ca9a3b
+    m_ExpandedIDs: 00000000226d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -741,9 +741,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 430
+    y: 358
     width: 941
-    height: 257
+    height: 329
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:
