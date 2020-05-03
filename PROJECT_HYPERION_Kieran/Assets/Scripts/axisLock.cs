@@ -15,6 +15,7 @@ public class axisLock : MonoBehaviour
     {
         Vector3 pos = transform.position;
         pos.y = 0;
+        pos.x = 0;
         transform.position = pos;
 
     }

@@ -15,5 +15,6 @@ public class zaxis_movement : MonoBehaviour
     void Update()
     {
         transform.Translate(0, 2, 0);//transform.Translate(x,y,z)
+
     }
 }
