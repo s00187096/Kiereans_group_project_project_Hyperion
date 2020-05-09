@@ -63,11 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\PlayerShoot.cs" />
     <Compile Include="Assets\Scripts\Rotate.cs" />
     <Compile Include="Assets\Scripts\SceneChanger.cs" />
     <Compile Include="Assets\Scripts\axisLock.cs" />
+    <Compile Include="Assets\Scripts\enemydeath.cs" />
     <Compile Include="Assets\Scripts\enemymovement.cs" />
     <Compile Include="Assets\Scripts\playermovement.cs" />
     <Compile Include="Assets\Scripts\zaxis_movement.cs" />

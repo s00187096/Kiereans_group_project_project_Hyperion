@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerShoot : MonoBehaviour
 {
     public Rigidbody bullet;
-    public float velocity = -10.0f;
+    public float velocity = 1000.0f;
 
 
     // Update is called once per frame
