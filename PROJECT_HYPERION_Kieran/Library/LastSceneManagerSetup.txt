@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/nextscene.unity
+- path: Assets/Scenes/level_1_Kieran.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
