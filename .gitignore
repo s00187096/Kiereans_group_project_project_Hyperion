@@ -1,20 +1,1336 @@
 
-*.meta
-PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_6.prefab
-*.prefab
-*.json
-*.dwlt
-*.dwlt
-PROJECT_HYPERION_Kieran/Library/CurrentLayout-default.dwlt
-PROJECT_HYPERION_Kieran/Assets/ship/mechcombined.obj
-PROJECT_HYPERION_Kieran/Assets/ship/kieransmech.obj
-PROJECT_HYPERION_Kieran/Assets/Scenes/SampleScene.unity
-*.unity
+PROJECT_HYPERION_Kieran/Assets/Autarca.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienDestroyer.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienDestroyerGreen.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienDestroyerWhite.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienFighter.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienFighterGreen.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/AlienFighterWhite.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/BioTorpedo.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/BioTorpedoGreen.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Materials/BioTorpedoWhite.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Meshes.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Meshes/AlienDestroyer.fbx.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Meshes/AlienFighter.fbx.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Meshes/BioTorpedo.fbx.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyer.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyer.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyerGreen.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyerGreen.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyerWhite.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyerWhite.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighter.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighter.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighterGreen.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighterGreen.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighterWhite.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/AlienFighterWhite.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedo.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedo.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedoGreen.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedoGreen.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedoWhite.prefab
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Prefabs/BioTorpedoWhite.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Showcase.unity
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Showcase.unity.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyer_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyer_Emission.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyer_MetallicSmoothness.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyer_Normal.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyerGreen_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyerGreen_Emission.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyerWhite_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienDestroyerWhite_Emission.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighter_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighter_Emission.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighter_MetallicSmoothness.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighter_Normal.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighterGreen_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/AlienFighterWhite_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedo_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedo_Emission.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedo_MetallicSmoothness.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedo_Normal.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedoGreen_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/Autarca/AlienShipsPack/Textures/BioTorpedoWhite_AlbedoTransparency.png.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Gameplay.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Gameplay/Gameplay (loop preview).wav.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Gameplay/Gameplay.wav.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Menu.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Menu/Menu (loop preview).wav.meta
+PROJECT_HYPERION_Kieran/Assets/BattleGalaxyMusic/Menu/Menu.ogg.meta
+PROJECT_HYPERION_Kieran/Assets/finish.png.meta
+PROJECT_HYPERION_Kieran/Assets/Materials.meta
+PROJECT_HYPERION_Kieran/Assets/Materials/finish.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Music.meta
+PROJECT_HYPERION_Kieran/Assets/Music/arwing double laser one shot.mp3.meta
+PROJECT_HYPERION_Kieran/Assets/Music/endofscene.mp3.meta
+PROJECT_HYPERION_Kieran/Assets/Music/menu.mp3.meta
+PROJECT_HYPERION_Kieran/Assets/Music/shipnoise.mp3.meta
+PROJECT_HYPERION_Kieran/Assets/Music/space.mp3.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_0.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_1.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_10.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_11.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_12.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_13.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_14.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_15.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_16.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_17.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_18.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_19.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_2.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_20.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_3.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_4.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_5.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_6.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_7.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_8.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/astre_9.FBX.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/Materials.meta
 PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/Materials/No Name.mat
-PROJECT_HYPERION_Kieran/Assets/Scenes/SampleScene.unity
-PROJECT_HYPERION_Kieran/Assets/Scenes/SampleScene.unity
-*.unity
-*.unity
-PROJECT_HYPERION_Kieran/Library/CurrentLayout-default.dwlt
-PROJECT_HYPERION_Kieran/Library/LastSceneManagerSetup.txt
-PROJECT_HYPERION_Kieran/ProjectSettings/EditorBuildSettings.asset
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Models/Materials/No Name.mat.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_0.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_0.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_1.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_1.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_10.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_10.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_11.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_11.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_12.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_12.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_13.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_13.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_14.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_14.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_15.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_15.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_16.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_16.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_17.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_17.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_18.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_18.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_19.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_19.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_2.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_2.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_20.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_20.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_3.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_3.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_4.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_4.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_5.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_5.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_6.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_6.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_7.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_7.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_8.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_8.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_9.prefab
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Prefabs/astre_9.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Textures.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Textures/dark_gray.png.meta
+PROJECT_HYPERION_Kieran/Assets/PACKS VOLS/Mobile Astre Pack vol. 1/Textures/light_gray.png.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/astre_20 (1).prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/astre_20 (1).prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/astre_20.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/astre_20.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Bullet.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Bullet.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Earth.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Earth.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Jupiter.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Jupiter.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Mars.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Mars.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Mercury.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Mercury.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Neptune.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Neptune.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Pluto.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Pluto.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Saturn.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Saturn.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Uranus.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Uranus.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Venus.prefab
+PROJECT_HYPERION_Kieran/Assets/Prefabs/Venus.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Scenes.meta
+PROJECT_HYPERION_Kieran/Assets/Scenes/level_1_Kieran.unity.meta
+PROJECT_HYPERION_Kieran/Assets/Scenes/menu.unity
+PROJECT_HYPERION_Kieran/Assets/Scenes/menu.unity.meta
+PROJECT_HYPERION_Kieran/Assets/Scenes/nextscene.unity
+PROJECT_HYPERION_Kieran/Assets/Scenes/nextscene.unity.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/axisLock.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/begin.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/enemydeath.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/enemymovement.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/menu.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/playermovement.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/PlayerShoot.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/quit.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/Rotate.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/SceneChanger.cs.meta
+PROJECT_HYPERION_Kieran/Assets/Scripts/zaxis_movement.cs.meta
+PROJECT_HYPERION_Kieran/Assets/ship.meta
+PROJECT_HYPERION_Kieran/Assets/ship/kieransmech.obj
+PROJECT_HYPERION_Kieran/Assets/ship/kieransmech.obj.meta
+PROJECT_HYPERION_Kieran/Assets/ship/mechcombined.obj
+PROJECT_HYPERION_Kieran/Assets/ship/mechcombined.obj.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Demo.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Demo/DemoScene.unity.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Demo/Scripts.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Demo/Scripts/LookCamera.cs.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Demo/Scripts/SkyboxChanger.cs.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Pink_1K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Pink_2K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Pink_4K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Back_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Down_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Front_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Left_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Materials.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Materials/Back_1K_TEX.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Right_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Up_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Back_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Down_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Front_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Left_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Right_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Up_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Back_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Down_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Front_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Left_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Right_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Up_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Green_1K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Green_2K_Resoution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Green_4K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Back_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Down_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Front_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Left_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Right_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Up_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Back_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Down_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Front_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Left_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Right_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Up_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Back_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Down_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Front_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Left_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Right_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Up_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Purple_1K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Purple_2K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Purple_4K_Resolution.mat.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Back_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Down_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Front_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Left_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Right_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Up_1K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Back_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Down_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Front_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Left_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Right_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Up_2K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Back_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Down_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Front_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Left_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Right_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Up_4K_TEX.png.meta
+PROJECT_HYPERION_Kieran/Assets/Texture.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/01-3.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/jupiter.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/killing-galaxy.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/mars.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/01-3.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/jupiter.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/killing-galaxy.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/mars.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/mecurary.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/neptune.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/pluto.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/saturn.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/Sphere.prefab.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/uranus.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/Materials/venus.mat.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/mecurary.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/neptune.png.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/pluto.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/saturn.png.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/uranus.jpg.meta
+PROJECT_HYPERION_Kieran/Assets/Texture/venus.jpg.meta
+PROJECT_HYPERION_Kieran/Library/CurrentMaximizeLayout.dwlt
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/DEPENDENCIES.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/AssemblyInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Bootstrap.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/CollabAnalytics.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/CollabHistoryWindow.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/CollabToolbarButton.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/CollabToolbarWindow.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Presenters.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Presenters/CollabHistoryPresenter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/BuildStatusButton.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/CollabHistoryDropDown.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/CollabHistoryDropDownItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/CollabHistoryItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/CollabHistoryItemFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/CollabHistoryRevisionLine.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/HistoryProgressSpinner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/ICollabHistoryItemFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/PagedListView.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Views/StatusView.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Resources.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Resources/Styles.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Resources/Styles/CollabHistoryCommon.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Resources/Styles/CollabHistoryDark.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Resources/Styles/CollabHistoryLight.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Unity.CollabProxy.Editor.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/README.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Tests.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Tests/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Tests/Editor/HistoryTests.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.collab-proxy@1.2.16/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll.mdb.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.pdb.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.xml.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/This is a custom build DONT include.txt.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ext.nunit@1.0.0/README.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/CONTRIBUTING.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/com.unity.ide.rider.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Discovery.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/EditorPluginInterop.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/LoggingLevel.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/PluginSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/PostProcessors.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/PostProcessors/RiderAssetPostprocessor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/ProjectGeneration.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/ProjectGeneration/FileIOProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/ProjectGeneration/GUIDProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderScriptEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderScriptEditorData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/CallbackData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/CallbackInitializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/RiderTestRunner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/TestEvent.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/TestsCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util/CommandLineParser.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util/FileSystemUtil.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util/LibcNativeInterop.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util/RiderMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/Util/UnityUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/CONTRIBUTING.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/ProjectGeneration.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/ProjectGeneration/FileIO.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/ProjectGeneration/GUIDGenerator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/ProjectGeneration/ProjectGeneration.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/Unity.com.unity.vscode.Editor.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/VSCodeDiscovery.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/Editor/VSCodeScriptEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.ide.vscode@1.1.4/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/CONTRIBUTING.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/CallbacksDelegator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/CallbacksDelegatorListener.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/CallbacksHolder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ExecutionSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/Filter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ICallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ICallbacksDelegator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ICallbacksHolder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/IErrorCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestAdaptor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestAdaptorFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestResultAdaptor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestRunnerApi.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestRunSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/ITestTreeRebuildCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/RunState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestAdaptor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestAdaptorFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestResultAdaptor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestRunnerApi.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/Api/TestStatus.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/AssemblyInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineParser.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineParser/CommandLineOption.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineParser/CommandLineOptionSet.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineParser/ICommandLineOption.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/Executer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/ExecutionSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/ExitCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/ISettingsBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/LogSavingCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/LogWriter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/ResultsSavingCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/ResultsWriter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/RunData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/RunSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/SettingsBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/SetupException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/CommandLineTest/TestStarter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/AssetsDatabaseHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/GuiHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/IAssetsDatabaseHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/IGuiHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListBuilder.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListBuilder/RenderingOptions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListBuilder/ResultSummarizer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListBuilder/TestFilterSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListBuilder/TestTreeViewBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListGuiHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListTreeView.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListTreeView/Icons.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestListTreeView/TestTreeViewItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestRunnerResult.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/TestRunnerUIFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/Views.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/Views/EditModeTestListGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/Views/PlayModeTestListGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/GUI/Views/TestListGUIBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension/Attributes.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension/Attributes/AssetPipelineIgnore.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension/Attributes/ITestPlayerBuildModifier.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension/Attributes/TestPlayerBuildModifierAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/NUnitExtension/TestRunnerStateSerializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/RequireApiProfileAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/RequirePlatformSupportAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/AttributeFinderBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/EditModeLauncher.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/EditModeLauncherContextSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/ApplePlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/IPlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/LuminPlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/PlatformSpecificSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/SwitchPlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/UwpPlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/XboxOnePlatformSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlayerLauncher.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherBuildOptions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherContextSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PlaymodeLauncher.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PostbuildCleanupAttributeFinder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/PrebuildSetupAttributeFinder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/RemotePlayerLogController.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/RemotePlayerTestController.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/RemoteTestResultReciever.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/RuntimeTestLauncherBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestLaunchers/TestLauncherBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestResultSerializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/BuildActionTaskBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/BuildTestTreeTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/CleanupVerificationTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/FileCleanupVerifierTaskBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/LegacyEditModeRunTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayModeRunTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/PerformUndoTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/PrebuildSetupTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/RegisterFilesForCleanupVerificationTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/SaveModiedSceneTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/SaveUndoIndexTask.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/Tasks/TestTaskBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/TestJobData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/TestJobDataHolder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/TestJobRunner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRun/TestRunCanceledException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/EditModeRunnerCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackInitializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/TestRunnerCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Callbacks/WindowResultUpdater.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/EditModePCHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/EditModeRunner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/EditmodeWorkItemFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/EditorEnumeratorTestWorkItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/EnumeratorStepHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Messages.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Messages/EnterPlayMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Messages/ExitPlayMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Messages/RecompileScripts.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Messages/WaitForDomainReload.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/CachingTestListProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/EditorAssembliesProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/EditorAssemblyWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/EditorCompilationInterfaceProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/EditorLoadedTestAssemblyProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/IEditorAssembliesProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/IEditorCompilationInterfaceProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/IEditorLoadedTestAssemblyProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/ITestListCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/ITestListCacheData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/ITestListProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/TestListCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/TestListCacheData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/TestListJob.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunner/Utils/TestListProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunnerWindow.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestRunnerWindowSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestSettings.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestSettings/ITestSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestSettings/ITestSettingsDeserializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestSettings/TestSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/TestSettings/TestSettingsDeserializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityEditor.TestRunner.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/AssemblyCompilationErrorsMessage.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/ITestRunnerApiMapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/IUtpLogger.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/IUtpMessageReporter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/Message.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/TestFinishedMessage.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/TestPlanMessage.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/TestRunnerApiMapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/TestStartedMessage.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/TestState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolListener.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolStarter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/UtpDebuglogger.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEditor.TestRunner/UnityTestProtocol/UtpMessageReporter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/AssemblyInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/InvalidSignatureException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/Is.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogAssert.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogScope.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogScope/ILogScope.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogScope/LogEvent.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogScope/LogMatch.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/LogScope/LogScope.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/UnhandledLogMessageException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Assertions/UnityTestTimeoutException.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/ConditionalIgnoreAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestEnumerator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestMustExpectAllLogsAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityCombinatorialStrategy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityPlatformAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnitySetUpAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTearDownAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTestAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/BaseDelegator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableApplyChangesToContextCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRepeatedTestCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRetryTestCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableSetUpTearDownCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/ImmediateEnumerableCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/OuterUnityTestActionCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/SetUpTearDownCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/TestActionCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Commands/TestCommandPcHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/ConstructDelegator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Filters.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Filters/AssemblyNameFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/IAsyncTestAssemblyBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/IStateSerializer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/CompositeWorkItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/CoroutineTestWorkItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/DefaultTestWorkItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/FailCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/IEnumerableTestMethodCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/PlaymodeWorkItemFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/TestCommandBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityLogCheckDelegatingCommand.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestAssemblyRunner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestExecutionContext.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItemDataHolder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/Runner/WorkItemFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/TestResultExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/NUnitExtensions/UnityTestAssemblyBuilder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Callbacks.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Callbacks/PlayModeRunnerCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Callbacks/RemoteTestResultSender.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/ITestRunnerListener.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Messages.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/PlaymodeTestsControllerSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/IRemoteTestResultDataFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/PlayerConnectionMessageIds.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataWithTestData.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/SynchronousFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/TestEnumeratorWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/TestPlatform.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/TestRunner/TestRunnerFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/UnityEngine.TestRunner.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyLoadProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/IScriptingRuntimeProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/ITestAssemblyProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AssemblyProvider/ScriptingRuntimeProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/AttributeHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/CoroutineRunner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/FloatEqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/IOuterUnityTestAction.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/IPostBuildCleanup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/IPrebuildSceneSetup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/ITestRunCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/MonoBehaviourTest.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/MonoBehaviourTest/IMonoBehaviourTest.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/MonoBehaviourTest/MonoBehaviourTest.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/PostBuildCleanupAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/PrebuildSceneSetupAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/QuaternionEqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/StacktraceFilter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/TestRunCallbackAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Utils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector2ComparerWithEqualsOperator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector2EqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector3ComparerWithEqualsOperator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector3EqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector4ComparerWithEqualsOperator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.test-framework@1.1.11/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Documentation~/TextMeshPro.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP - Dropdown Icon.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP - Font Asset Icon.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP - Input Field Icon.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP - Text Component Icon.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Shaders.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Shaders/TMP_Properties.cginc.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Shaders/TMP_SDF Internal SSD.shader.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidLine.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidline_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Dark.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Light.psd.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Package Resources.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Package Resources/TMP Essential Resources.unitypackage.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Package Resources/TMP Examples & Extras.unitypackage.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/PackageConversionData.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/PackageConversionData_Assets.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/DropdownOptionListDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/GlyphInfoDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/GlyphMetricsPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/GlyphRectPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_BaseEditorPanel.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_BaseShaderGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_BitmapShaderGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_CharacterPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_ColorGradientAssetMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_ColorGradientEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_DropdownEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_EditorCoroutine.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_EditorPanel.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_EditorUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_FontAsset_CreationMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_FontAssetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_GlyphPairAdjustmentRecordPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_GlyphPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_InputFieldEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_MeshRendererEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_PackageUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_PostBuildProcessHandler.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_ProjectTextSettings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_ResourcesLoader.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SDFShaderGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SerializedPropertyHolder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SettingsEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SpriteAssetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SpriteAssetImporter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SpriteAssetMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SpriteCharacterPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SpriteGlyphPropertyDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_StyleAssetMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_StyleSheetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SubMesh_Editor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_SubMeshUI_Editor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_TextAlignmentDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_UiEditorPanel.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMP_UIStyleManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_ContextMenus.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_CreateObjectMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_EditorShaderUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_FontPlugin.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_SortingLayerHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_TextContainerEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_TexturePostProcessor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/AssemblyInfo.cs.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/FastAction.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/MaterialReferenceManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextContainer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextMeshPro.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextMeshProUGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Asset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Character.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_CharacterInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ColorGradient.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_CoroutineTween.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_DefaultControls.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Dropdown.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_EditorResourceManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontAssetCommon.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontAssetUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontFeaturesCommon.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontFeatureTable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_InputField.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_InputValidator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_LineInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ListPool.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_MaterialManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_MeshInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ObjectPool.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_PackageResourceImporter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_RichTextTagsCommon.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_RichTextTagStack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ScrollbarEventHandler.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SelectionCaret.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Settings.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ShaderUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Sprite.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SpriteAnimator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SpriteAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SpriteCharacter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SpriteGlyph.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Style.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_StyleSheet.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SubMesh.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SubMeshUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextElement.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextElement_Legacy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextParsingUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_UpdateManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_UpdateRegistery.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_EventManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_ExtensionMethods.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_MeshUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_Private.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_UGUI_Private.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/Unity.TextMeshPro.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Editor/TMP_EditorTests.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Runtime.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Runtime/TMP_RuntimeTests.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/CHANGELOG.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/ClipsActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/ItemAction.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/MarkerActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/Menus.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/Menus/MenuItemActionBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/Menus/TimelineContextMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/TimelineActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Actions/TrackActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Activation.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Activation/ActivationTrackEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Activation/ActivationTrackInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Analytics.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Analytics/TimelineAnalytics.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/AnimationClipActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/AnimationClipCurveCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/AnimationOffsetMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/AnimationPlayableAssetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/AnimationTrackActions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/BindingSelector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/BindingTreeViewDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/BindingTreeViewDataSourceGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/ClipCurveEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/CurveDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/CurvesProxy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Animation/TimelineAnimationUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Attributes.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Attributes/ActiveInModeAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Attributes/MenuEntryAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Attributes/ShortcutAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Audio.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Audio/AudioClipPropertiesDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Audio/AudioPlayableAssetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Audio/AudioPlayableAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Audio/AudioTrackInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/ControlTrack.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/ControlTrack/ControlPlayableAssetEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CurveEditUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors/ClipEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors/CustomTimelineEditorCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors/MarkerEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors/MarkerTrackEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/CustomEditors/TrackEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/DirectorNamedColor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/DirectorStyles.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Extensions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Extensions/AnimatedParameterExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Extensions/AnimationTrackExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Extensions/TrackExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/AnimationPlayableAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/AnimationTrackInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/BasicAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/BuiltInCurvePresets.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/ClipInspector.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/ClipInspector/ClipInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/ClipInspector/ClipInspectorCurveEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/ClipInspector/ClipInspectorSelectionInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/CurvesOwner.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/CurvesOwner/CurvesOwnerInspectorHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/CurvesOwner/ICurvesOwnerInspectorWrapper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/DirectorNamedColorInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/EditorClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/EditorClipFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/GroupTrackInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/MarkerInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/TimeFieldDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/TimelineAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/TimelineInspectorUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/inspectors/TrackAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/ClipItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/ItemsGroup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/ItemsPerTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/ItemsUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/ITimelineItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Items/MarkerItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/AddDelete.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/AddDelete/AddDeleteItemModeMix.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/AddDelete/AddDeleteItemModeReplace.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/AddDelete/AddDeleteItemModeRipple.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/AddDelete/IAddDeleteItemMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Cursors.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Cursors/TimelineCursors.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/EditMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/EditModeInputHandler.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/IMoveItemMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/MoveItemHandler.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/MoveItemModeMix.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/MoveItemModeReplace.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/MoveItemModeRipple.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Move/MovingItems.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/EaseClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/Jog.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/MarkerHeaderContextMenu.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/RectangleSelect.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/RectangleTool.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/RectangleZoom.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/SelectAndMoveItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/TrackZoom.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Sequence/TrimClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/TimeAreaAutoPanner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/TimeIndicator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/TimelineClipGroup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Trim.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Trim/ITrimItemMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Trim/TrimItemModeMix.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Trim/TrimItemModeReplace.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Trim/TrimItemModeRipple.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/EditModeGUIUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/EditModeMixUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/EditModeReplaceUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/EditModeRippleUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/EditModeUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/ManipulatorsUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Manipulators/Utils/PlacementValidity.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/MenuOrder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Playables.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Playables/ControlPlayableInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Properties.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Properties/AssemblyInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/AnimationTrackRecorder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/TimelineRecording.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/TimelineRecording_Monobehaviour.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/TimelineRecording_PlayableAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/TimelineRecordingContextualResponder.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Recording/TrackAssetRecordingExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Shortcuts.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalAssetInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalEmitterEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalEmitterInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalEventDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalReceiverHeader.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalReceiverInspector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/SignalUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/Styles.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/TreeView.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/TreeView/SignalListFactory.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/TreeView/SignalReceiverItem.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Signals/TreeView/SignalReceiverTreeView.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State/ISequenceState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State/SequenceHierarchy.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State/SequencePath.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State/SequenceState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/State/WindowState.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Extensions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Extensions/common.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Extensions/dark.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Extensions/light.uss.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineActivation.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineCollapseMarkerButtonDisabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineCollapseMarkerButtonEnabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineContinue.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineCurvesOff.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineCurvesOn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineDisabledBackground.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineEndPlayback.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineEye.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineEye@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineHold.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipIn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipOut.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineInfiniteTrackNoShadow.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineKeyframe.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineLockButton.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineLockButton@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineLoop.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemCollapsed.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemSelected.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelinePingPong.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelinePlayRange.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineSignalCollapsed.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineSignalSelected.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineStartPlayback.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/DarkSkin/TimelineTimeCursor.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineDigIn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineHeaderMarkerIcon.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineMarkerAreaButtonDisabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineMarkerAreaButtonEnabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineSelector.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/d_TimelineSignal.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/Timeline-Marker-Warning-Overlay.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineClipBG.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineClipFG.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineDigIn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeMixOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeMixON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleOFF.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleON.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineHeaderMarkerIcon.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineMarkerAreaButtonDisabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineMarkerAreaButtonEnabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineSelector.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Icons/TimelineSignal.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineActivation.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineAutokey.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineAutokey@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineCollapseMarkerButtonDisabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineCollapseMarkerButtonEnabled.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineContinue.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineCurvesOff.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineCurvesOn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineDisabledBackground.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineEndPlayback.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineEye.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineEye@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineHold.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineIconClipIn.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineIconClipOut.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineInfiniteTrackNoShadow.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineKeyframe.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineLockButton.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineLockButton@2x.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineLoop.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItem.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemCollapsed.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemSelected.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelinePingPong.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelinePlayRange.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineSignalCollapsed.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineSignalSelected.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineStartPlayback.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/LightSkin/TimelineTimeCursor.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineBottomShadow.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineConnector.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineDisplay.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineGroupBackground.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineOutline.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineSeqEnd.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineSwatch.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/Images/Shared/TimelineWarning.png.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/res.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/res/HumanoidDefault.anim.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/res/Timeline_DarkSkin.txt.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/StyleSheets/res/Timeline_LightSkin.txt.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/TimelineEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/TimelineHelpers.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/TimelineSelection.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/TimelineUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Tooltip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Trackhead.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/AnimationTrackKeyDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Control.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/AnimationTrackDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/ClipDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/InfiniteTrackDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/Layers.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/Layers/ClipsLayer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/Layers/ItemsLayer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/Layers/MarkersLayer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/TrackDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Drawers/TrackItemsDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/InlineCurveEditor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/IPropertyKeyDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/IRowGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui/ISelectable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui/TimelineClipGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui/TimelineItemGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui/TimelineMarkerClusterGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ItemGui/TimelineMarkerGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ManipulationsClips.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ManipulationsTimeline.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/ManipulationsTracks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Manipulator.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/PickerUtils.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Snapping.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Snapping/IAttractable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Snapping/ISnappable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/Snapping/SnapEngine.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineClipHandle.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineClipUnion.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineDragging.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineGroupGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineTrackBaseGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineTrackErrorGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineTrackGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineTreeView.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TimelineTreeViewGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/treeview/TrackPropertyCurvesDataSource.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Unity.Timeline.Editor.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/UnityEditorInternals.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/AnimatedParameterCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/AnimatedParameterUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/BindingUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/BreadcrumbDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/Clipboard.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/ClipModifier.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/ControlPlayableUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/CustomTrackDrawerAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/DisplayNameHelper.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/Graphics.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/GUIColorOverride.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/GUIGroupScope.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/GUIMixedValueScope.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/GUIViewportScope.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/KeyTraverser.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/MarkerModifier.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/ObjectExtension.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/ObjectReferenceField.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/PropertyCollector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/Range.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/SequenceSelectorNameFormater.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/SpacePartitioner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/StyleManager.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/StyleNormalColorOverride.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/TimelineKeyboardNavigation.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/TimeReferenceUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/TrackModifier.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/TrackResourceCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Utilities/TypeUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineActiveMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineAssetEditionMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineDisabledMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineInactiveMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimelineReadOnlyMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/Modes/TimeReferenceMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/PlaybackScroller.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineMarkerHeaderGUI.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_ActiveTimeline.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_Breadcrumbs.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_Duration.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_EditorCallbacks.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_Gui.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_HeaderGui.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_Manipulators.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_PlayableLookup.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_PlayRange.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_PreviewPlayMode.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_Selection.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_StateChange.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_TimeArea.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_TimeCursor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindow_TrackGui.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/TimelineWindowTimeControl.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/ViewModel.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/ViewModel/ScriptableObjectViewPrefs.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/ViewModel/TimelineAssetViewModel.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/ViewModel/TimelineWindowViewPrefs.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Editor/Window/WindowConstants.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/LICENSE.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/package.json.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/README.md.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Activation.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Activation/ActivationMixerPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Activation/ActivationPlayableAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Activation/ActivationTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation/AnimationOutputWeightProcessor.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation/AnimationPlayableAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation/AnimationPreviewUpdateCallback.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation/AnimationTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Animation/ICurvesOwner.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade/AnimationPlayableAssetUpgrade.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade/AnimationTrackUpgrade.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade/ClipUpgrade.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade/TimelineUpgrade.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/AssetUpgrade/TrackUpgrade.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Attributes.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Attributes/TrackColorAttribute.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Audio.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Audio/AudioClipProperties.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Audio/AudioMixerProperties.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Audio/AudioPlayableAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Audio/AudioTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/ClipCaps.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Control.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Control/ControlPlayableAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Control/ControlTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/DiscreteTime.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/InfiniteRuntimeClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/IntervalTree.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/RuntimeClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/RuntimeClipBase.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/RuntimeElement.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Evaluation/ScheduleRuntimeClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/IMarker.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/INotificationOptionProvider.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Marker.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/MarkerList.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/MarkerTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Signals.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Signals/CustomSignalEventDrawer.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Signals/SignalAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Signals/SignalEmitter.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/Signals/SignalReceiver.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Events/SignalTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Extensions.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Extensions/TrackExtensions.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/GroupTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/ILayerable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/ActivationControlPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/BasicScriptPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/DirectorControlPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/ITimeControl.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/NotificationFlags.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/ParticleControlPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/PrefabControlPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/TimeControlPlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Playables/TimeNotificationBehaviour.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Properties.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Properties/AssemblyInfo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Scripting.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Scripting/PlayableTrack.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Timeline.deprecated.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TimelineAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TimelineAsset_CreateRemove.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TimelineAttributes.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TimelineClip.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TimelinePlayable.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/TrackAsset.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Unity.Timeline.asmdef.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/AnimationPreviewUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/AnimatorBindingCache.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/Extrapolation.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/HashUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/IPropertyCollector.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/IPropertyPreview.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/NotificationUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/TimelineCreateUtilities.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/TimelineUndo.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/TimeUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/PackageCache/com.unity.timeline@1.2.12/Runtime/Utilities/WeightUtility.cs.meta
+PROJECT_HYPERION_Kieran/Library/StateCache/Hierarchy/6cd7b9-01fd7a264844ebb4ca.json
+PROJECT_HYPERION_Kieran/Library/StateCache/Hierarchy/6cd7b9-91e11d2740e83d64b9.json
+PROJECT_HYPERION_Kieran/Library/StateCache/SceneView/5b400a-01fd7a264844ebb4ca.json
+PROJECT_HYPERION_Kieran/Library/StateCache/SceneView/5b400a-91e11d2740e83d64b9.json
